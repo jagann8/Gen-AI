@@ -1,0 +1,58 @@
+__pycache__/
+*.pyc
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Logs & caches
+*.log
+*.out
+.cache/
+*.coverage
+coverage.xml
+htmlcov/
+*.pid
+
+# Environment and secret files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Hugging Face & model files
+*.pt
+*.bin
+*.ckpt
+*.onnx
+*.safetensors
+huggingface/
+*.pb
+
+# Docker
+*.tar
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# SQLite or other temp DBs
+*.db
+
+# Uploads or generated output
+uploads/
+output/
