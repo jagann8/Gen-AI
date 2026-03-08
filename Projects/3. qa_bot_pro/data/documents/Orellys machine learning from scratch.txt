@@ -1,0 +1,23 @@
+Orellys machine learning from scratch
+
+--------------------------------------------------
+
+GitHub code : https://github.com/thomasnield/oreilly_machine_learning_from_scratch
+
+
+-----------------------------
+
+https://www.youtube.com/channel/UC5fa7_jq9iyN68KZVCtQhIQ
+
+Thomas author book:
+
+https://learning.oreilly.com/library/view/essential-math-for/9781098102920/?_gl=1*1r3ckjl*_ga*MTE3MDM0NjM2My4xNzIwMzk3NzUy*_ga_092EL089CH*MTcyNTUzNzk4My44LjAuMTcyNTUzNzk4NS41OC4wLjA.
+
+-------------------------
+
+Is there any website which can give us a good start in learning basics of machine learning?
+
+https://datatalks.club/ 
+
+-------------------------
+
